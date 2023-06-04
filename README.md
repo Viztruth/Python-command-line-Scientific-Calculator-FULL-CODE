@@ -1,5 +1,7 @@
 # Python Command Line Scientific Calculator (FULL CODE)
 Simple python command-line calculator for scientific calculations with the ability to perform standard operations as well as trigonometric, logarithmic, area calculations and more. Ideal Python lab project.
+
+Output: <br>
 ![Output](https://github.com/Viztruth/Python-command-line-Scientific-Calculator-FULL-CODE/blob/main/OutputScreenshot.jpg)
 
 <h2>How to use?</h2>
